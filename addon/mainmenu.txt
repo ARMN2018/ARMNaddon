@@ -5,7 +5,7 @@ subid="tracks"
 playlistid="false"
 channelid="false"
 videoid="false"
-icon="https://github.com/ARMN2018/ARMNaddon/blob/master/icon/checkered-usa-flags-vector-illustration-checkered-usa-flags-waving-flag-115090763.jpg"
+icon="https://github.com/ARMN2018/ARMNaddon/blob/master/addon/icon/checkered-usa-flags-vector-illustration-checkered-usa-flags-waving-flag-115090763.jpg"
 fanart="http://"
 description="Nothing Added Yet (Not Officially Released)"
 
