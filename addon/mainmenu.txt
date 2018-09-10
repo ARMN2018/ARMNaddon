@@ -5,7 +5,7 @@ subid="tracks"
 playlistid="false"
 channelid="false"
 videoid="false"
-icon="https://github.com/ARMN2018/ARMNaddon/blob/master/addon/icon/Atlanta%20mortoe%20speedway%20icon.png"
+icon="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcrystaljonas.com%2Fwp-content%2Fuploads%2F2015%2F12%2Fcropped-512x512-Pic-for-Site-Icon.jpeg&imgrefurl=https%3A%2F%2Fcrystaljonas.com%2Fcropped-512x512-pic-for-site-icon-jpeg%2F&docid=I0Fq2Bf-Jmh5DM&tbnid=rSx4fkC3IGq0jM%3A&vet=10ahUKEwiGnI2a1a_dAhUF31MKHcnFAqsQMwg2KAAwAA..i&w=512&h=512&bih=478&biw=1088&q=512x512pic&ved=0ahUKEwiGnI2a1a_dAhUF31MKHcnFAqsQMwg2KAAwAA&iact=mrc&uact=8"
 fanart="http://"
 description="Nothing Added Yet (Not Officially Released)"
 
