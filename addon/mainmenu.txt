@@ -5,7 +5,9 @@ subid="tracks"
 playlistid="false"
 channelid="false"
 videoid="false"
-icon="https://github.com/ARMN2018/ARMNaddon/blob/master/addon/icon/nascar1%20icon.png"
+icon="
+      ARMNaddon/addon/icon/nascar1 icon.png
+    "
 fanart="http://"
 description="Nothing Added Yet (Not Officially Released)"
 
