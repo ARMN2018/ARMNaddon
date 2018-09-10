@@ -1,11 +1,11 @@
-name="Nothing Added Yet (Not Officially Released)"
+name="TRACKS"
 section="false"
 search="false"
 subid="tracks"
 playlistid="false"
 channelid="false"
 videoid="false"
-icon="http://repo.tantrumtv.com/kn/icons/btb.jpg"
+icon="https://github.com/ARMN2018/ARMNaddon/blob/master/icon/nascar1%20icon.png"
 fanart="http://"
 description="Nothing Added Yet (Not Officially Released)"
 
