@@ -1,4 +1,4 @@
-name="Atlanta Motor Speedway"
+name="Auto Club Speedway"
 section="false"
 search="Auto Club Speedway(nascar)"
 subid="false"
