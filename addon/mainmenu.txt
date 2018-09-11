@@ -11,7 +11,7 @@ description="Nothing Added Yet (Not Officially Released)"
 
 name="Rick and Morty Live Feeds"
 section="false"
-search="Rick and Morty Live&event_type=live"
+search="nascar&event_type=live"
 subid="false"
 playlistid="false"
 channelid="false"
