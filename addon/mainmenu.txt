@@ -9,7 +9,7 @@ icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/che
 fanart="http://"
 description="Nothing Added Yet (Not Officially Released)"
 
-name="Rick and Morty Live Feeds"
+name="NASCAR"
 section="false"
 search="nascar&event_type=live"
 subid="false"
