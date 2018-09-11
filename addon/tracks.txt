@@ -7,11 +7,7 @@ channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/checkered-usa-flags-vector-illustration-checkered-usa-flags-waving-flag-115090763.jpg"
 fanart="http://"
-description="TRACK NAME	Charlotte Motor Speedway
-CITY/STATE	Concord, NC
-YEAR OPENED	1960
-LENGTH/Miles	1.5
-TRACK TYPE Intermediate	"
+description="TRACK NAME	Charlotte Motor Speedway CITY/STATE	Concord, NC YEAR OPENED	1960 LENGTH/Miles 1.5 TRACK TYPE Intermediate"
 
 name="TRACKS"
 section="false"
