@@ -1,4 +1,4 @@
-name="TRACKS"
+name="Atlanta Motor Speedway"
 section="false"
 search="false"
 subid="tracks"
@@ -7,7 +7,12 @@ channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/checkered-usa-flags-vector-illustration-checkered-usa-flags-waving-flag-115090763.jpg"
 fanart="http://"
-description="Nothing Added Yet (Not Officially Released)"
+description="TRACK NAME	Atlanta Motor Speedway
+CITY/STATE	Hampton, GA
+YEAR OPENED	1960
+LENGTH/Miles	1.54
+TRACK TYPE	Intermediate
+)"
 
 name="TRACKS"
 section="false"
