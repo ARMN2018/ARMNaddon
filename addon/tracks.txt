@@ -1,7 +1,7 @@
 name="Atlanta Motor Speedway"
 section="false"
 search="false"
-subid="ala"
+subid="trak_ala"
 playlistid="false"
 channelid="false"
 videoid="false"
