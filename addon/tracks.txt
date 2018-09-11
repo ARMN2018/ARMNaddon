@@ -1,5 +1,5 @@
 name="Atlanta Motor Speedway"
-section="true"
+section="false"
 search="false"
 subid="false"
 playlistid="false"
