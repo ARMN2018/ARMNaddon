@@ -11,11 +11,11 @@ description="TRACK NAME	Atlanta Motor Speedway CITY/STATE Hampton,GA YEAR OPENED
 TRACK TYPE	Intermediate
 "
 
-name="Atlanta Motor Speedway"
+name="Auto Club Speedway"
 section="false"
-search="false"
+search="trak_Auto"
 subid="false"
-playlistid="PLtc57NTUizP5SN2uNtio0Zkss_eod8gcT"
+playlistid="false"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/checkered-usa-flags-vector-illustration-checkered-usa-flags-waving-flag-115090763.jpg"
