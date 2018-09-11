@@ -9,7 +9,7 @@ icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/che
 fanart="http://"
 description="Nothing Added Yet (Not Officially Released)"
 
-name="NASCAR"
+name="NASCAR YouTube Channel"
 section="false"
 search="false"
 subid="nascar"
