@@ -1,6 +1,6 @@
 name="Atlanta Motor Speedway"
 section="false"
-search="false"
+search="Atlanta Motor Speedway(nascar)"
 subid="false"
 playlistid="false"
 channelid="false"
