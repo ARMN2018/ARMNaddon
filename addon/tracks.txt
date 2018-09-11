@@ -1,6 +1,6 @@
 name="Atlanta Motor Speedway"
 section="false"
-search="Atlanta Motor Speedway(nascar)"
+search="true"
 subid="false"
 playlistid="false"
 channelid="false"
@@ -11,10 +11,10 @@ description="TRACK NAME	Atlanta Motor Speedway CITY/STATE Hampton,GA YEAR OPENED
 TRACK TYPE	Intermediate
 "
 
-name="TRACKS"
+name="Atlanta Motor Speedway"
 section="false"
-search="false"
-subid="tracks"
+search="Atlanta Motor Speedway(nascar)"
+subid="false"
 playlistid="false"
 channelid="false"
 videoid="false"
