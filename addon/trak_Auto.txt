@@ -1,6 +1,6 @@
 name="Auto Club Speedway"
 section="false"
-search="Auto Club Speedway(nascar)"
+search="(nascar)Auto Club Speedway Fontana, CA"
 subid="false"
 playlistid="false"
 channelid="false"
