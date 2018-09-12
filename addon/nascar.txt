@@ -1,4 +1,4 @@
-name="Nothing Added Yet (Not Officially Released)"
+name="Nothing Added"
 section="true"
 search="false"
 subid="false"
