@@ -9,17 +9,6 @@ icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/che
 fanart="http://"
 description=""
 
-name="NASCAR ALL Monster Energy NASCAR Cup Series"
-section="false"
-search=""
-subid="false"
-playlistid="PLtc57NTUizP5Xaj9xZ7mNRaph4lIwx8cK"
-channelid="false"
-videoid="false"
-icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/checkered-usa-flags-vector-illustration-checkered-usa-flags-waving-flag-115090763.jpg"
-fanart="http://"
-description=""
-
 name=" NASCAR All Videos 20182  "
 section="false"
 search="false"
@@ -152,7 +141,7 @@ icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/che
 fanart="http://"
 description=""
 
-name=" NASCAR All Videos 2018  "
+name=" NASCAR All Videos 201814  "
 section="false"
 search="false"
 subid="false"
