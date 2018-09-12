@@ -9,7 +9,7 @@ icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/che
 fanart="http://"
 description=""
 
-name="Atlanta Motor Speedway"
+name="Atlanta Motor Speedway1"
 section="false"
 search="false"
 subid="false"
@@ -20,7 +20,7 @@ icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/che
 fanart="http://"
 description="Nothing Added Yet (Not Officially Released)"
 
-name="Atlanta Motor Speedway"
+name="Atlanta Motor Speedway2"
 section="false"
 search="false"
 subid="false"
