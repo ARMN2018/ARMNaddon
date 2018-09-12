@@ -1,15 +1,13 @@
-name="Atlanta Motor Speedway"
+name=" NASCAR YouTube Channel"
 section="false"
-search="Atlanta Motor Speedway(nascar)"
+search="false)"
 subid="false"
 playlistid="false"
-channelid="false"
+channelid="UCuN9hYw2RpoAW8rZ3VK3isA"
 videoid="false"
 icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/checkered-usa-flags-vector-illustration-checkered-usa-flags-waving-flag-115090763.jpg"
 fanart="http://"
-description="TRACK NAME	Atlanta Motor Speedway CITY/STATE Hampton,GA YEAR OPENED 1960 LENGTH/1.54Miles
-TRACK TYPE	Intermediate
-"
+description=""
 
 name="Atlanta Motor Speedway"
 section="false"
