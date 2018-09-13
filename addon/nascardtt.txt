@@ -1,4 +1,4 @@
-name="NASCAR All Videos 2018"
+name="NASCAR All Videos "
 section="false"
 search="false"
 subid="false"
