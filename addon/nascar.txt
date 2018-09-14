@@ -20,11 +20,11 @@ icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/che
 fanart="http://"
 description="Nothing Added Yet (Not Officially Released)"
 
-name="Atlanta Motor Speedwaytest"
+name="All Videos 2018"
 section="false"
 search="false"
 subid="false"
-playlistid="hvgZCLucEtE&list=PLtc57NTUizP4TeyC0fAJrjLPM73Xyhovh"
+playlistid="PLtc57NTUizP5SN2uNtio0Zkss_eod8gcT"
 channelid="false"
 videoid="false"
 icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/checkered-usa-flags-vector-illustration-checkered-usa-flags-waving-flag-115090763.jpg"
