@@ -9,7 +9,7 @@ icon="https://raw.githubusercontent.com/ARMN2018/ARMNaddon/master/addon/icon/che
 fanart="http://"
 description=""
 
-name="NASCAR Full Race Replays 2018"
+name="Full Race Replays 2018"
 section="false"
 search="false"
 subid="false"
